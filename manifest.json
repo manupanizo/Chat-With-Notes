@@ -1,0 +1,11 @@
+{
+	"id": "kagi-fastgpt-chat",
+	"name": "Kagi FastGPT Chat",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Chat with your notes using Kagi's FastGPT API. Search your vault and get AI responses based on your note contents.",
+	"author": "Your Name",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
