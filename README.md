@@ -3,7 +3,9 @@
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/manupanizo/Chat-With-Notes?style=for-the-badge)](https://github.com/manupanizo/Chat-With-Notes/releases/latest)
 [![GitHub All Releases](https://img.shields.io/github/downloads/manupanizo/Chat-With-Notes/total?style=for-the-badge)](https://github.com/manupanizo/Chat-With-Notes/releases)
 
-This plugin allows you to chat with your notes using Kagi's FastGPT API. Search your vault and get AI responses based on your note contents.
+Search your vault and get AI responses based on your note contents. In this initial version, the plugin allows you to submit one question about your notes and get a reply using Kagi's FastGPT API.
+
+This is an unofficial plugin for Obsidian.
 
 ## Features
 
