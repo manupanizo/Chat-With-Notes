@@ -1,4 +1,4 @@
-# Chat With Notes Plugin for Obsidian with Kagi FastGPT
+# Chat With Notes (Proof of Concept) - Plugin for Obsidian with Kagi FastGPT
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/manupanizo/Chat-With-Notes?style=for-the-badge)](https://github.com/manupanizo/Chat-With-Notes/releases/latest)
 [![GitHub All Releases](https://img.shields.io/github/downloads/manupanizo/Chat-With-Notes/total?style=for-the-badge)](https://github.com/manupanizo/Chat-With-Notes/releases)
